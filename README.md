@@ -7,10 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://iconos8.es/icon/108784/javascript.png" alt="JavaScript"> --->
 
-# ¡Hola 👋! Soy Mateo Martín - Desarrollador frontend 👨🏻‍💻
-
-Entusiasta de la programación web
-
 <h1 align="center">¡Hola 👋! Soy Mateo Martín - Desarrollador frontend 👨🏻‍💻</h1>
 <h3 align="center">Entusiasta de la programación web</h3>
 
@@ -28,7 +24,7 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje autodida
 
 ## Tecnologías y herramientas que manejo
 
-<p align="left">
+<div align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none !important;"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60" style="margin-right: 10px;"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" style="margin-right: 10px;"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right: 10px;"/> </a>
@@ -43,4 +39,4 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje autodida
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right: 10px;"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="margin-right: 10px;"/> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" style="margin-right: 10px;"/> </a>
-</p>
+</div>
