@@ -24,7 +24,8 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje autodida
 
 ## Tecnologías y herramientas que manejo
 
-<div align="left">
+<div align="left" style="gap: 6px;
+  display: flex;">
     <a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none !important;"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60" style="margin-right: 10px;"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" style="margin-right: 10px;"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right: 10px;"/> </a>
