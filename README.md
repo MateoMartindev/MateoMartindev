@@ -34,7 +34,7 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje autodida
 ## Educación:
 
 <p>
-  <strong>Bootcamp Frontend: </strong> Colsubsidio y Cymetria Group | Febrero 2024 - Abril 2024
+  <strong>Frontend: </strong> Colsubsidio y Cymetria Group | Febrero 2024 - Abril 2024
   <br>
   <strong>Bootcamp Frontend Avanzado: </strong> Códigofacilito | Octubre 2023 - Enero 2024
   <br>
