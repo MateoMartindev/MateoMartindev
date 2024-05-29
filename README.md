@@ -54,6 +54,9 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje autodida
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" class="no-underline">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" class="w-16 h-16">
 </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer" class="link-item"> 
+        <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/astro-logo.svg" alt="Astro" width="60" height="60"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
