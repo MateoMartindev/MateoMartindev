@@ -58,7 +58,7 @@ Soy un desarrollador web apasionado por la tecnología y el aprendizaje autodida
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.astro.build/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/snowpackjs/astro/main/assets/logo.svg" alt="Astro" width="60" height="60">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" alt="Astro" width="60" height="60">
 </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
